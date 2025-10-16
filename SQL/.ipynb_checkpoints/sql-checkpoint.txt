@@ -1,0 +1,8 @@
+9) windows function ( row num, rank, dense rank, lead, lag, Sum () over)
+10)Case
+11) Like
+12) Sub queries
+13) CTE 
+14) Replace CTE with temp tables 
+15) Methods to optimize Sql queries
+16) Solve problems and case studies at Ankit Bansal youtube channel

@@ -1,0 +1,11 @@
+FeedbackID,Product,Rating,ReviewDate,Feedback,Country
+1,Coffee,4,2024-02-02,Good taste,India
+2,Tea,5,2024-02-03,Excellent flavor,India
+3,Juice,3,2024-02-04,Too sweet,Nepal
+4,Bread,2,2024-02-05,Not fresh,Bangladesh
+5,Cake,4,2024-02-06,Delicious,Nepal
+6,Milk,5,2024-02-07,Very good,India
+7,Cookies,NaN,2024-02-08,Crispy,Bangladesh
+8,Soda,1,2024-02-09,Flat,Sri Lanka
+9,Water,4,2024-02-10,Refreshing,India
+10,Coffee,NaN,2024-02-11,Average taste,Nepal
