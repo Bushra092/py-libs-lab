@@ -1,0 +1,11 @@
+OrderID,Product,Category,Quantity,Price,Country,Date
+1001,Coffee,Beverage,3,150,India,2024-01-03
+1002,Tea,Beverage,2,120,India,2024-01-05
+1003,Milk,Beverage,5,90,Nepal,2024-01-07
+1004,Bread,Food,4,60,India,2024-01-09
+1005,Cookies,Food,3,80,Bangladesh,2024-01-11
+1006,Juice,Beverage,6,110,India,2024-01-13
+1007,Cake,Food,2,300,Nepal,2024-01-15
+1008,Soda,Beverage,,50,Sri Lanka,2024-01-17
+1009,Chips,Food,1,,India,2024-01-19
+1010,Water,Beverage,7,30,Bangladesh,2024-01-21

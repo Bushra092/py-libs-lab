@@ -1,0 +1,7 @@
+EmpID,Name,Department,Salary,Experience,Gender,City
+E01,Ayesha Khan,HR,50000.0,3.0,F,Delhi
+E02,Rohit Sharma,IT,65000.0,5.0,M,Mumbai
+E03,Neha Gupta,HR,,2.0,F,Chennai
+E04,John Mathew,Finance,58000.0,4.0,M,Delhi
+E05,Priya Das,IT,72000.0,,F,Bangalore
+E06,Ramesh Iyer,IT,70000.0,6.0,M,
