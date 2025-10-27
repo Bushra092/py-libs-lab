@@ -4,4 +4,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
+from IPython.display import display, Markdown  
+# This line imports functions from IPython that let you display formatted text (like bold, headers, lists) inside Jupyter notebooks using Markdown syntax
+
+
 print("All packages are working!")

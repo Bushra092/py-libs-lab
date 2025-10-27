@@ -51,7 +51,7 @@ INSERT INTO Employees (EmpID, EmpName, DeptID, Salary, JoiningDate, Email) VALUE
 (22, 'Victor', 3, 55500, '2021-01-03', 'victor@example.com'),
 (23, 'Wendy', 4, 60500, '2022-05-25', 'wendy@example.com'),
 (24, 'Xander', 5, 70000, '2019-06-16', 'xander@example.com'),
-(25, 'Yara', 2, 62000, '2018-03-18', 'yara@example.com'),
+(25, 'Yara', 2, 62000, '2018-03-18', 'yara@example.com'),a
 (26, 'Zane', 1, 55000, '2021-12-21', 'zane@example.com'),
 (27, 'Liam', 3, 56500, '2020-09-14', 'liam@example.com'),
 (28, 'Mia', 4, 61000, '2022-07-19', 'mia@example.com'),
